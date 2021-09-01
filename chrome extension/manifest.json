@@ -1,0 +1,14 @@
+{
+   "manifest_version": 2,
+   "name": "My first extenison",
+   "description" : "idk",
+   "version": "1.0",
+
+    "browser_action": {
+    "default_icon": "1200px_hammer_and_sickle_red_on_transparent_svg_C7R_icon.ico",
+    "default_popup" : "popup.html"
+
+    },
+    "permissions" : [
+    ]
+}
